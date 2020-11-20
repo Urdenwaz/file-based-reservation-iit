@@ -10,8 +10,10 @@ import java.util.Scanner;
 public class Main {
 
     /**
-     * Main Class
-     * @version 11.19.2020
+     * Main Client Class
+     * v11.19.2020
+     * @author zak-cole
+     * @author Khushin30
      */
 
     public static void main(String[] args) {

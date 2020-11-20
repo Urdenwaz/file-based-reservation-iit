@@ -6,7 +6,7 @@ public class House {
 
     /**
      * Class to encapsulate House Object
-     * @version 11.19.2020
+     * v11.19.2020
      */
 
     // fields for house specifications
