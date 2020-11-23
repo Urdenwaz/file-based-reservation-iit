@@ -1,0 +1,7 @@
+House 1:
+[250.0, 340.00, 1600.0]
+[Zak Cole, Aleksi Zirkan, Khushin Patel]
+
+House 2:
+[250.0, 250.0, 250.0]
+[null, null, null]
