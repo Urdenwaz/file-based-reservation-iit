@@ -11,6 +11,7 @@ import javax.swing.JTextField;
 import java.awt.*;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -79,6 +80,7 @@ public class ReservationUI {
         for (String tenant : houses.get(0).getTenants()) {
             // make sure house has vacancies
             if (tenant == null) {
+                button1.setText("House 1");
                 button1.addActionListener(e -> {
                     // update frame
                     frame.remove(chooseHousePanel);
@@ -97,6 +99,7 @@ public class ReservationUI {
         for (String tenant : houses.get(1).getTenants()) {
             // make sure house has vacancies
             if (tenant == null) {
+                button2.setText("House 2");
                 button2.addActionListener(e -> {
                     // update frame
                     frame.remove(chooseHousePanel);
