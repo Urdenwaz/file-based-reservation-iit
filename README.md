@@ -1,5 +1,5 @@
 # File-Based Reservation Project
-Illinois Tech CS201: Advanced Introduction to Computer Science Final Project
+Illinois Tech CS201 Final Project
 
 ## Contributors
 zak-cole
