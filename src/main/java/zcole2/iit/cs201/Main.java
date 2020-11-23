@@ -119,7 +119,10 @@ public class Main {
         }
     }
 
-    // method to handle customer side
+    /*
+     * text based implementation of customer side
+     * deprecated v11.22.2020
+     */
     @Deprecated
     public static void customerSide(List<House> houses) {
         // initialize scanner for user input
